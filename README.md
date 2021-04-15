@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/wangsq-web/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-04-15 06:24:30"/>
+    <img src="https://badgen.net/badge/last-commit/2021-04-15 06:28:32"/>
     <img src="https://badgen.net/github/forks/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/stars/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/watchers/wangsq-web/ghiblog"/>
@@ -25,7 +25,7 @@
 
 :label: : [:+1:置顶](https://github.com/wangsq-web/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
-利用GitHub actions 监听issues 然后利用Python 修改readme.md文件 形成目录列表，最后重新提交更新
+利用GitHub actions 监听issues 然后利用Python 修改readme.md文件 形成目录列表，最后重新提交更新 源码来自[https://github.com/jwenjian/ghiblog](url)
 
 [更多>>>](https://github.com/wangsq-web/wangsq-web/issues/2)
 
