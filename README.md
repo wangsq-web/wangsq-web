@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/wangsq-web/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-04-15 03:39:24"/>
+    <img src="https://badgen.net/badge/last-commit/2021-04-15 03:46:16"/>
     <img src="https://badgen.net/github/forks/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/stars/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/watchers/wangsq-web/ghiblog"/>
@@ -24,7 +24,9 @@
 
 :label: : [开源](https://github.com/wangsq-web/ghiblog/labels/%E5%BC%80%E6%BA%90)
 
-测试测试测试
+提交 issue github actions 同步到 readme
+
+测试文章
 
 [更多>>>](https://github.com/wangsq-web/wangsq-web/issues/1)
 
@@ -131,6 +133,8 @@
 # 开源项目
 
 
-| [测试 issue](https://github.com/wangsq-web/测试 issue) | 测试测试测试 | ![](https://badgen.net/github/stars/wangsq-web/测试 issue) ![](https://badgen.net/github/forks/wangsq-web/测试 issue) ![](https://badgen.net/github/watchers/wangsq-web/测试 issue) |
+| [测试 issue](https://github.com/wangsq-web/测试 issue) | 提交 issue github actions 同步到 readme
+
+测试文章 | ![](https://badgen.net/github/stars/wangsq-web/测试 issue) ![](https://badgen.net/github/forks/wangsq-web/测试 issue) ![](https://badgen.net/github/watchers/wangsq-web/测试 issue) |
 | --- | --- | --- |
 
