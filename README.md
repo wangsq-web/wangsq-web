@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/12"/>
     <img src="https://badgen.net/github/issues/wangsq-web/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-04-15 03:46:16"/>
+    <img src="https://badgen.net/badge/last-commit/2021-04-15 06:24:30"/>
     <img src="https://badgen.net/github/forks/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/stars/wangsq-web/ghiblog"/>
     <img src="https://badgen.net/github/watchers/wangsq-web/ghiblog"/>
@@ -18,7 +18,19 @@
 
 
 ## 置顶 :thumbsup: 
+- [实现方法](https://github.com/wangsq-web/wangsq-web/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [实现方法](https://github.com/wangsq-web/wangsq-web/issues/2) <sup>0 :speech_balloon:</sup> 	 2021-04-15 06:23:55
+
+:label: : [:+1:置顶](https://github.com/wangsq-web/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+
+利用GitHub actions 监听issues 然后利用Python 修改readme.md文件 形成目录列表，最后重新提交更新
+
+[更多>>>](https://github.com/wangsq-web/wangsq-web/issues/2)
+
+---
+
 
 #### [测试 issue](https://github.com/wangsq-web/wangsq-web/issues/1) <sup>0 :speech_balloon:</sup> 	 2021-04-15 03:21:37
 
@@ -35,7 +47,7 @@
 
 ## 分类  :card_file_box: 
 
-<details open="open">
+<details>
     <summary>
         <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
         <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
@@ -43,8 +55,9 @@
 
 
 <details>
-<summary>:+1:置顶	<sup>0:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
 
+- [实现方法](https://github.com/wangsq-web/wangsq-web/issues/2)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
