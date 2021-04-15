@@ -11,15 +11,12 @@ jobs:
     - uses: actions/checkout@master
     - name: install dependencies
       run: |
-        pip3 install setuptools --user
-        pip3 install PyGithub --user
-        pip3 install wordcloud --user
-        pip3 install matplotlib --user
-    - name: run python script
+        npm install --user
+    - name: run node script
       env:
         GITHUB_LOGIN: wangsq-web
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python3 main.py
+      run: node index.js
     - name: config git info
       run: |
         git config --global user.email "1475088311@qq.com"
