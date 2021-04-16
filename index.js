@@ -28,12 +28,12 @@ function callback(error, response, body) {
        if (err) {
            return console.error(err);
        }
-       fs.readFile('README.md', function (err, data) {
-          if (err) {
-             return console.error(err);
-          }
-          // console.log(data.toString());
-       });
+      //  fs.readFile('README.md', function (err, data) {
+      //     if (err) {
+      //        return console.error(err);
+      //     }
+      //     // console.log(data.toString());
+      //  });
     });
   }
 }
