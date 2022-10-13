@@ -4,7 +4,7 @@
 
 
 
-个人博客, 请**不要**提issue, 谢谢!
+没想到啊，没想到
 ====================
 This repository is for personal blogging, please **DO NOT** submit issue, thanks!
 
