@@ -4,9 +4,7 @@
 
 
 
-个人博客, 请**不要**提issue, 谢谢!
-====================
-This repository is for personal blogging, please **DO NOT** submit issue, thanks!
+提示出来
 
 
 [更多>>>](https://github.com/wangsq-web/wangsq-web/issues/5)
